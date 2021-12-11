@@ -1,0 +1,1 @@
+<script type="text/javascript" src="/proyecto/src/js/registerForm.js"></script>

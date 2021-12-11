@@ -1,0 +1,1 @@
+<script src="/proyecto/src/js/getreport.js"></script>
